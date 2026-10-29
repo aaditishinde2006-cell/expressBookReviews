@@ -1,0 +1,21 @@
+
+{
+  "1": {
+    "isbn": "9780141036144",
+    "title": "1984",
+    "author": "George Orwell",
+    "reviews": {}
+  },
+  "2": {
+    "isbn": "9780061120084",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "reviews": {}
+  },
+  "3": {
+    "isbn": "9780743273565",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "reviews": {}
+  }
+}
