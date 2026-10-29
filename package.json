@@ -1,0 +1,14 @@
+
+{
+  "name": "express-book-review-api",
+  "version": "1.0.0",
+  "description": "Express API for book search, user authentication, and book review management",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "express": "^4.21.2"
+  }
+}
